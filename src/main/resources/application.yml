@@ -2,4 +2,4 @@
 spring:
   cloud:
     aws:
-
+      region: eu-west-1
